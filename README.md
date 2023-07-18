@@ -52,18 +52,6 @@ This `README.md` file provides an overview of the test scenarios used in the UI 
 5. **Report Generation**
    - Generate test reports and log any defects or issues found during testing.
 
-## How to Run Tests
-
-1. Clone the repository to your local machine.
-
-2. Install the required dependencies using the provided `package.json` file.
-
-3. Configure the test environment and browser settings in the test configuration file.
-
-4. Run the test suite using the testing framework command or test runner.
-
-5. View the test reports and logs to analyze the test results and any detected issues.
-
 ## Contributing
 
 We welcome contributions to enhance and expand our test scenarios. Please feel free to submit pull requests or raise issues if you encounter any problems.
