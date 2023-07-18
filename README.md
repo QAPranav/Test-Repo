@@ -58,6 +58,6 @@ We welcome contributions to enhance and expand our test scenarios. Please feel f
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License].
 
 
